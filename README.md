@@ -19,6 +19,7 @@ I'm a **Senior Data Analyst** with **10+ years** of experience transforming data
 Currently at **Cogna Educação** (world's largest education company), I lead the data and analytics strategy for language brands, developing **AI models to predict churn**, optimize conversions, and democratize insights through executive dashboards that impact millions of students.
 
 - 🔭 Currently working on **AI predictive models** for churn prediction and conversion optimization
+- 🌱 Deepening my knowledge with an **MBA in UX Design** at PUC-RS
 - 💬 Ask me about **Python, SQL, Power BI, Marketing Analytics**, and data-driven strategies
 - 📫 Reach me at: **carlosportomelo@gmail.com**
 - 😄 Pronouns: **He/Him**
@@ -30,18 +31,14 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 
 <div align="center">
 
-<a href="https://github.com/Carlosportomelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosportomelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Carlos's GitHub Stats" />
-</a>
-<a href="https://github.com/Carlosportomelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosportomelo&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosportomelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Carlos's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosportomelo&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosportomelo&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosportomelo&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
