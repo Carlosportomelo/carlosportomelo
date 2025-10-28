@@ -31,14 +31,21 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 
 <div align="center">
 
+<!-- Linha 1: Stats principais lado a lado -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlosportomelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Carlos's GitHub Stats" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosportomelo&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
-<div align="center">
+<!-- Linha 2: Streak stats em linha única -->
+<div align="center" style="display: flex; justify-content: center;">
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosportomelo&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlosportomelo&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 100%;"/>
+
+</div>
 
 </div>
 
@@ -146,28 +153,3 @@ carlos_expertise = {
     "business_intelligence": ["Executive Dashboards", "KPI Monitoring", "Data Storytelling"],
     "data_engineering": ["SQL Pipelines", "BigQuery", "Data Automation", "ETL Processes"]
 }
-```
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-💼 Open to opportunities in **Data Analytics**, **Marketing Analytics**, **Growth**, and **AI/ML projects**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ailton)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlosportomelo@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Carlosportomelo)
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *"Transforming data into decisions, decisions into results."* 📊🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=Carlosportomelo&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
