@@ -36,7 +36,13 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosportomelo&theme=radical" alt="GitHub Stats Summary" />
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosportomelo&theme=radical" alt="Most Used Languages" />
+```mermaid
+xychart-beta
+    title "Top Technical Deliveries"
+    x-axis ["ML Scoring", "Media Pipeline", "Operational Analytics", "Funnel Analysis"]
+    y-axis "Impact Index" 0 --> 100
+    bar [96, 93, 88, 85]
+```
 
 </div>
 
@@ -55,6 +61,14 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosportomelo&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" style="max-width: 100%;"/>
 
 </div>
+
+## 🚀 Project Delivery Impact
+
+- **50.000+ registros/dia** processados em pipelines de marketing e CRM
+- **99,8% taxa de sucesso** em integração de dados (HubSpot, Meta e Google)
+- **88% de acurácia** no modelo de ML para lead scoring
+- **80% de redução** no esforço manual de análise operacional
+- **45% de aumento** na taxa de conversão com priorização automatizada
 
 ---
 
