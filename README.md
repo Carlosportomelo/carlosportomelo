@@ -31,38 +31,29 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 
 <div align="center">
 
-<!-- Linha 1: Perfil tecnico e linguagens -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosportomelo&theme=radical" alt="GitHub Stats Summary" />
-
-```mermaid
-xychart-beta
-    title "Top Technical Deliveries"
-    x-axis ["ML Scoring", "Media Pipeline", "Operational Analytics", "Funnel Analysis"]
-    y-axis "Impact Index" 0 --> 100
-    bar [96, 93, 88, 85]
-```
-
-</div>
-
-<!-- Linha 2: Streak stats em linha única -->
-<div align="center" style="display: flex; justify-content: center;">
 
 <img src="https://streak-stats.demolab.com?user=carlosportomelo&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" style="max-width: 100%;"/>
 
 </div>
 
-</div>
-
-<!-- Linha 3: Activity Graph -->
 <div align="center" style="margin-top: 20px;">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosportomelo&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" style="max-width: 100%;"/>
 
 </div>
 
-## 🚀 Project Delivery Impact
+### 📈 Top Languages by Repo (Technical Focus)
+
+```mermaid
+xychart-beta
+    title "Top Languages by Repo"
+    x-axis ["Python", "SQL", "Jupyter", "PowerShell"]
+    y-axis "Relative Usage" 0 --> 100
+    bar [100, 74, 58, 35]
+```
+
+### 🚀 Project Delivery Impact
 
 - **50.000+ registros/dia** processados em pipelines de marketing e CRM
 - **99,8% taxa de sucesso** em integração de dados (HubSpot, Meta e Google)
