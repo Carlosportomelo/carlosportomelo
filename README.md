@@ -31,19 +31,17 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 
 <div align="center">
 
-<!-- Linha 1: Stats principais lado a lado -->
+<!-- Linha 1: Perfil tecnico e linguagens -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosportomelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Carlos's GitHub Stats" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlosportomelo&theme=radical" alt="GitHub Stats Summary" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosportomelo&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosportomelo&theme=radical" alt="Most Used Languages" />
 
 </div>
 
 <!-- Linha 2: Entrega técnica e produtividade -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosportomelo&theme=radical" alt="Repos per language" />
 
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlosportomelo&theme=radical" alt="Most commit language" />
 
