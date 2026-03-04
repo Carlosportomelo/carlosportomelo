@@ -62,13 +62,13 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 
 <div align="center">
 
-<img src="https://s3-symbol-logo.tradingview.com/cogna--600.png" alt="Cogna" height="50" style="margin: 15px"/>
-<img src="https://logo.clearbit.com/raizen.com.br" alt="Raízen" height="50" style="margin: 15px"/>
-<img src="https://logo.clearbit.com/shell.com" alt="Shell" height="50" style="margin: 15px"/>
-<img src="https://logo.clearbit.com/vivo.com.br" alt="Vivo" height="50" style="margin: 15px"/>
-<img src="https://logo.clearbit.com/itau.com.br" alt="Itaú" height="50" style="margin: 15px"/>
-<img src="https://logo.clearbit.com/sky.com.br" alt="Sky" height="50" style="margin: 15px"/>
-<img src="https://logo.clearbit.com/quero.education" alt="Quero Educação" height="50" style="margin: 15px"/>
+[![Cogna](https://img.shields.io/badge/Cogna-0066B3?style=for-the-badge)](#)
+[![Raizen](https://img.shields.io/badge/Raizen-0B7A3B?style=for-the-badge)](#)
+[![Shell](https://img.shields.io/badge/Shell-FCC000?style=for-the-badge&logo=shell&logoColor=red)](#)
+[![Vivo](https://img.shields.io/badge/Vivo-660099?style=for-the-badge)](#)
+[![Itau](https://img.shields.io/badge/Itau-EC7000?style=for-the-badge)](#)
+[![Sky](https://img.shields.io/badge/Sky-0033A1?style=for-the-badge)](#)
+[![Quero Educacao](https://img.shields.io/badge/Quero_Educacao-00AEEF?style=for-the-badge)](#)
 
 </div>
 
