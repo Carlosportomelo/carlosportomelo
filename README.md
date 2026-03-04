@@ -40,10 +40,14 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 
 </div>
 
-<!-- Linha 2: Streak stats em linha única -->
-<div align="center" style="display: flex; justify-content: center;">
+<!-- Linha 2: Entrega técnica e produtividade -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<img src="https://streak-stats.demolab.com?user=carlosportomelo&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" style="max-width: 100%;"/>
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlosportomelo&theme=radical" alt="Repos per language" />
+
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=carlosportomelo&theme=radical" alt="Most commit language" />
+
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=carlosportomelo&theme=radical&utcOffset=-3" alt="Productive time" />
 
 </div>
 
@@ -55,6 +59,17 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=carlosportomelo&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" style="max-width: 100%;"/>
 
 </div>
+
+### 🎯 Technical Delivery Mix
+
+```mermaid
+pie showData
+    title Foco de Entregas Tecnicas
+    "Machine Learning aplicado" : 30
+    "Analise de Negocio e KPI" : 30
+    "Data Cleaning e Qualidade" : 20
+    "Automacao e Pipelines" : 20
+```
 
 ---
 
