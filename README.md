@@ -34,16 +34,16 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 <!-- Linha 1: Stats principais lado a lado -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosportomelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=21600" alt="Carlos's GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosportomelo&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=1800" alt="Carlos's GitHub Stats" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosportomelo&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=21600" alt="Most Used Languages" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosportomelo&layout=compact&theme=radical&langs_count=8&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
 
 </div>
 
 <!-- Linha 2: Streak stats em linha única -->
 <div align="center" style="display: flex; justify-content: center;">
 
-<img src="https://streak-stats.demolab.com?user=carlosportomelo&theme=radical&hide_border=true&cache_seconds=21600" alt="GitHub Streak" style="max-width: 100%;"/>
+<img src="https://streak-stats.demolab.com?user=carlosportomelo&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Streak" style="max-width: 100%;"/>
 
 </div>
 
