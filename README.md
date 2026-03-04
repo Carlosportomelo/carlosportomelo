@@ -43,16 +43,6 @@ Currently at **Cogna Educação** (world's largest education company), I lead th
 
 </div>
 
-### 📈 Top Languages by Repo (Technical Focus)
-
-```mermaid
-xychart-beta
-    title "Top Languages by Repo"
-    x-axis ["Python", "SQL", "Jupyter", "PowerShell"]
-    y-axis "Relative Usage" 0 --> 100
-    bar [100, 74, 58, 35]
-```
-
 ### 🚀 Project Delivery Impact
 
 - **50.000+ registros/dia** processados em pipelines de marketing e CRM
